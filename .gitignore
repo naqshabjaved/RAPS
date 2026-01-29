@@ -5,6 +5,7 @@ logs/
 .cache/
 models/*.pt
 cache/
+mp4_videos/
 # Traffic Density
 traffic density/.venv
 traffic density/pip-wheel-metadata/
