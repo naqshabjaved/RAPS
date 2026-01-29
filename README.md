@@ -251,3 +251,8 @@ The design choices are mathematically sound and defensible in academic evaluatio
 RAPS demonstrates how heterogeneous AI signals can be fused to adapt routing decisions in real time. The system prioritizes **correct adaptive logic**, **architectural clarity**, and **explainability**, making it suitable for academic evaluation and further research extensions.
 
 ---
+## Author
+Naqshab Javed
+Priyaansh Malik
+Ayush Gupta
+Sonu Kharayat
