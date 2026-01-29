@@ -4,7 +4,7 @@ __pycache__/
 logs/
 .cache/
 models/*.pt
-
+cache/
 # Traffic Density
 traffic density/.venv
 traffic density/pip-wheel-metadata/
