@@ -7,7 +7,6 @@ folium>=0.15
 # Graph & Routing
 networkx>=3.1
 osmnx>=1.9
-pyrosm>=0.6
 shapely>=2.0
 
 # Data & Utilities

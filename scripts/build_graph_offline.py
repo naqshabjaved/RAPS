@@ -1,3 +1,5 @@
+#Tried to parse graph using python library pyrosm but failed to do so because of inadequate memory(RAM).
+
 from pyrosm import OSM
 import os
 import osmnx as ox
