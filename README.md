@@ -1,4 +1,4 @@
-# Realtime Adaptive Pathfinding System (RAPS)
+## Realtime Adaptive Pathfinding System (RAPS)
 
 ## Overview
 
